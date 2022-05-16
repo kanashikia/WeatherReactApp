@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Getting Started
+
+- create an .env.local file and fill with your Open Weather Map API key like this <code>REACT_APP_OPEN_WEATHER_API_ID=your_api_key</code>
+- <code>npm install</code>
+- <code>npm start</code>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
